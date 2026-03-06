@@ -13,11 +13,11 @@ Suddenly there were:
 - and papers that all seemed to redefine the same symbols in slightly different ways.
 
 At some point it became clear:
-> [!Folk wisdom]
+> ! Folk wisdom
 > The human brain is not a reliable long-term storage device for population genetics.
 
 So instead of trying to remember everything forever, a better strategy appeared:
-> [!Folk wisdom]
+> ! Folk wisdom
 > Write it down. Organize it. Build a knowledge base.
 
 This repository is exactly that.
