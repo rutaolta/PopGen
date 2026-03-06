@@ -8,11 +8,11 @@
 > The same is true for the total population $H_T=2p_T(1-p_T)=2p_Tq_T$.
 > And $H_I=f_{12}$ is the fraction of heterozygous individuals.
 > Then inbreeding coefficients:
-
+>
 > $F_{IS}=1-\frac{H_I}{H_S}=1-\frac{f_{12}}{2p_Sq_S}$
-
+>
 > $F_{IT}=1-\frac{H_I}{H_T}=1-\frac{f_{12}}{2p_Tq_T}$
-
+>
 > $F_{ST}=1-\frac{H_S}{H_T}=1-\frac{2p_Sq_S}{2p_Tq_T}$
 > 
 > If summary across multiple subpopulations:
