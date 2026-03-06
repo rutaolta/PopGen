@@ -13,11 +13,9 @@ Suddenly there were:
 - and papers that all seemed to redefine the same symbols in slightly different ways.
 
 At some point it became clear:
-> ! Folk wisdom
-> The human brain is not a reliable long-term storage device for population genetics.
+> The human brain is not a reliable long-term storage device for population genetics. (Folk wisdom)
 
 So instead of trying to remember everything forever, a better strategy appeared:
-> ! Folk wisdom
-> Write it down. Organize it. Build a knowledge base.
+> Write it down. Organize it. Build a knowledge base. (Folk wisdom)
 
 This repository is exactly that.
