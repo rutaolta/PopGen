@@ -10,8 +10,11 @@ $N_{e}^{Y}=N_{M}$
 
 > [!Theory box]
 > Where the equation for autosomes is derived from the probability to coalesce in the preceding generation as:
+
 > $p=\frac{1}{4}(\frac{1}{2N_M})+\frac{1}{4}(\frac{1}{2N_F})$,
+
 > and the probability of 2 alleles to have the same parental allele in proceeding generation (identical by descend) in N diploid individuals is:
+
 > $p=\frac{1}{2N_e}$
 
 > $\frac{1}{2N_e}=\frac{1}{4}(\frac{1}{2N_M})+\frac{1}{4}(\frac{1}{2N_F})$
