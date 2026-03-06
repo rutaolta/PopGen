@@ -5,12 +5,7 @@ At first it seemed manageable.
 Just a few concepts here and there… nothing scary.
 
 But soon the collection grew.
-Suddenly there were:
-
-- dozens of statistics,
-- mysterious equations,
-- models with subscripts,
-- and papers that all seemed to redefine the same symbols in slightly different ways.
+Suddenly there were dozens of statistics, mysterious equations, models with subscripts, and papers that all seemed to redefine the same symbols in slightly different ways.
 
 At some point it became clear:
 > The human brain is not a reliable long-term storage device for population genetics. (Folk wisdom)
