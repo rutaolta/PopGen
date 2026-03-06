@@ -28,6 +28,7 @@ $N_{e}^{Y}=N_{M}$
 > [!Theory box]
 > ##### $N_e$ estimates based on nucleotide diversity
 > Diploids: $\theta=4N\mu$, $N=\frac{\theta}{4\mu}$
+>
 > Haploids: $\theta=2N\mu$, $N=\frac{\theta}{2\mu}$
 
 ---
