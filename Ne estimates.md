@@ -13,9 +13,13 @@ $N_{e}^{Y}=N_{M}$
 > $p=\frac{1}{4}(\frac{1}{2N_M})+\frac{1}{4}(\frac{1}{2N_F})$,
 > and the probability of 2 alleles to have the same parental allele in proceeding generation (identical by descend) in N diploid individuals is:
 > $p=\frac{1}{2N_e}$
+
 > $\frac{1}{2N_e}=\frac{1}{4}(\frac{1}{2N_M})+\frac{1}{4}(\frac{1}{2N_F})$
+
 > $\frac{1}{N_e}=\frac{1}{4}(\frac{1}{N_M}+\frac{1}{N_F})$
+
 > $\frac{1}{N_e}=\frac{N_F+N_M}{4N_FN_M}$
+
 > $N_e=\frac{4N_FN_M}{N_F+N_M}$
 
 > [!Theory box]
