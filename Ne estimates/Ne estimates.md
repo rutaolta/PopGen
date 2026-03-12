@@ -51,27 +51,32 @@ $\frac{N_{e}^{AUT}}{N_{e}^{MT}}=\frac{4N_{M}N_{F}}{(N_{M}+N_{F})N_{F}}=\frac{4r}
 ##### $N_e$ estimates per compartment
 1. **MT & Y**
 Let's calculate $N_{e}^{MT}$ and $N_{e}^{Y}$ based on mutation rates and nucleotide diversity as
+
 $N_e^{MT}=N_F=\frac{\theta_{MT}}{2\mu_{MT}}$, and
 
 $N_e^{Y}=N_M=\frac{\theta_{Y}}{2\mu_{Y}}$
 
 then we can derive $N_e$ for the rest compartments as
+
 $N_e^{AUT}=\frac{4N_FN_M}{N_F+N_M}$, and
 
 $N_e^{X}=\frac{9N_FN_M}{2N_F+4N_M}$
 
 2. **MT & AUT**
 Now let's calculate $N_{e}^{MT}$ and $N_{e}^{AUT}$ based on mutation rates and nucleotide diversity as
+
 $N_e^{MT}=N_F=\frac{\theta_{MT}}{2\mu_{MT}}$, and
 
 $N_e^{AUT}=\frac{\theta_{AUT}}{4\mu_{AUT}}$
 
 then we can derive $N_e$ for the rest compartments using formulas above the [Theory box 1] as
+
 $N_e^{Y}=N_M=\frac{N_e^{MT}N_e^{AUT}}{4N_e^{MT}-N_e^{AUT}}$, and
 
 $N_e^{X}=\frac{9N_FN_M}{2N_F+4N_M}$
 
 3.  **MT & X**
+
 $N_e^{MT}=N_F=\frac{\theta_{MT}}{2\mu_{MT}}$
 
 $N_e^{X}=\frac{\theta_{X}}{4\mu_{X}}$
@@ -81,6 +86,7 @@ $N_e^{Y}=N_M=\frac{2N_e^{MT}N_e^{X}}{9N_e^{MT}-4N_e^{X}}$
 $N_e^{AUT}=\frac{4N_FN_M}{N_F+N_M}$
 
 4. **AUT & X**
+
 $N_e^{AUT}=\frac{\theta_{AUT}}{4\mu_{AUT}}$
 
 $N_e^{X}=\frac{\theta_{X}}{4\mu_{X}}$
