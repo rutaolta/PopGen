@@ -26,10 +26,12 @@ $N_{e}^{Y}=N_{M}$
 > $N_e=\frac{4N_FN_M}{N_F+N_M}$
 
 > [!Theory box 2]
-> ##### $N_e$ estimates based on nucleotide diversity
+> ##### $N_e$ estimates based on "nucleotide diversity"
 > Diploids: $\theta=4N\mu$, $N=\frac{\theta}{4\mu}$
 >
 > Haploids: $\theta=2N\mu$, $N=\frac{\theta}{2\mu}$
+> 
+> where $\theta=E(\pi)$
 
 ---
 ##### Sex-bias ratio estimates
